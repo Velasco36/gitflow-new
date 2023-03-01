@@ -5,12 +5,12 @@
 /* 
 modelo usuario
 
-nombre 
-apellido
+
+
 usuario 
 correo
 contraseña
-fecha de nacimiento
+
 
 */
 
