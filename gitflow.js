@@ -14,3 +14,16 @@ fecha de nacimiento
 
 */
 
+
+
+/* 
+modelo carro
+
+modelo de carro
+usuario
+placa
+serial
+marca
+
+*/
+
