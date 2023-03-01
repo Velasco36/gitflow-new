@@ -27,3 +27,15 @@ marca
 
 */
 
+/* 
+permisos
+
+permisos de usuario
+
+permisos de admin
+
+permisos de usuarios normales
+
+*/
+
+
