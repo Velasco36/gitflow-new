@@ -25,4 +25,7 @@ refrescar token
 
 """ 
 vista olvide mi password
+añadi una imagen 
+
+cambia una imagen
 """
