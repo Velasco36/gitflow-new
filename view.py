@@ -21,3 +21,8 @@ hacer un token
 refrescar token
 
 """
+
+
+""" 
+vista olvide mi password
+"""
